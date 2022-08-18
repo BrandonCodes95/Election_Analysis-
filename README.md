@@ -35,6 +35,8 @@ The analysis of the election show that:
   5. County Voting Turn out: 
      - The county with the biggest turn out was Denver brining out a total of 306,055 votes. Which was 82.8% of the total voter turn out. 
    
+   ![This is an image](https://github.com/BrandonCodes95/Election_Analysis-/blob/7af9542d41c22e2fb84ad68ad35ca1b6f81ce35b/Election%20Analysis%20Image.PNG)
+   
    ### Suggestions for further use 
       I could see this codee being very useful for other purposes or elections acorss the county. Keeping the basic format in tact for the code we could plug in not only counties but cities as well as states. The analysis would still work the same which is the beauty of it because this would allow results in a much quicker time frame. 
       For example if we changed the counties to cities and decided to try for a state Governor election to get the winner and same break down we could. The same could go for a Presdential election, where we could change the counties to states and calculate each states popular vote to get a winner. 
