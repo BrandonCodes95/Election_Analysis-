@@ -38,8 +38,9 @@ The analysis of the election show that:
    ![This is an image](https://github.com/BrandonCodes95/Election_Analysis-/blob/7af9542d41c22e2fb84ad68ad35ca1b6f81ce35b/Election%20Analysis%20Image.PNG)
    
    ### Suggestions for further use 
-      I could see this code being very useful for other purposes or elections acorss the county. Keeping the basic format in tact for the code we could plug in not only counties but cities as well as states. The analysis would still work the same which is the beauty of it because this would allow results in a much quicker time frame. 
-      For example if we changed the counties to cities and decided to try for a state Governor election to get the winner and same break down we could. The same could go for a Presdential election, where we could change the counties to states and calculate each states popular vote to get a winner. 
+       I could see this code being very useful for other purposes or elections across the county. Keeping the basic format intact for the code we could plug in not only counties but cities as well as states. The analysis would still work the same which is the beauty of it because this would allow results in a much quicker time frame. 
+      For example, if we changed the counties to cities and decided to try for a state Governor election to get the winner and same break down we could. The same could go for a Presidential election, where we could change the counties to states and calculate each state popular vote to get a winner.
+ 
   
 
 
